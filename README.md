@@ -1,12 +1,13 @@
 a simple command line app
 
-windows tested Requirements
+a simple command line app
 
-    php installed(access to php via cmd)
+windows tested , php installed(access to php via cmd)
 
 How to use
 
-    run for dependencies
-    php.exe main.php iso csv/dir/filename.csv
-    php.exe main.php csv KES
-    php.exe main.php help
+    run: composer dump-autoload
+         php.exe main.php iso csv/dir/filename.csv
+         php.exe main.php csv KES
+         php.exe main.php help
+
